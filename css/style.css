@@ -71,7 +71,10 @@ table{
   vertical-align: center;
 }
 
-
+thead.colhead{
+  text-align: center; 
+  vertical-align: center;
+}
 .colhead{
   min-width: 125px;
   padding: 10px;
@@ -122,6 +125,5 @@ footer p{
   min-height: 75px;
   position: fixed;
   bottom: 0;
-  left: 0;
 }
 
