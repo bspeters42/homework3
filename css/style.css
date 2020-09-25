@@ -120,7 +120,7 @@ tr:nth-child(even) {
 footer{
   width:100%;
   background:#000000;
-  text-align:left;
+  text-align:center;
   color: #FFFFFF;
   min-height: 75px;
   position: fixed;
